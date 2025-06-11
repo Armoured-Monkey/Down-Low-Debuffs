@@ -4,9 +4,18 @@
         "description": [
             "",
             {
-                "text": "This data pack causes players to experience debuffs for being under certain y-levels after certain times in the game.",
+                "text": "This data pack causes players to experience debuffs for being under certain y-levels after certain times in the game. Use the command ",
+                "color": "#e25903"
+            },
+            {           
+                "text": "/function down_low_debuffs:admin/config ",
+                "color": "#7f3202"
+            },
+            { 
+                "text": "to configure the timings and y-levels of the debuffs.",
                 "color": "#e25903"
             }
+
         ],
         "icon": {
             "id": "minecraft:bedrock"
