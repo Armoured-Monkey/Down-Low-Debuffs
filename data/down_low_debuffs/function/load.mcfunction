@@ -13,5 +13,6 @@ scoreboard players set min_y uhc.dldebuffs.config -64
 scoreboard players set max_y uhc.dldebuffs.config 30
 scoreboard players set start uhc.dldebuffs.config 80
 scoreboard players set duration uhc.dldebuffs.config 20
+scoreboard players set status_updates uhc.dldebuffs.config 10
 
 scoreboard objectives add uhc.dldebuffs.player_y dummy
