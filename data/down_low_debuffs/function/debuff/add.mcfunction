@@ -12,6 +12,6 @@ effect give @s minecraft:hunger infinite 10 false
 ## Glowing
 effect give @s minecraft:glowing infinite 1 false
 ## Reduced Movement Speed
-attribute @s minecraft:movement_speed base set 0.75
+attribute @s minecraft:movement_speed base set 0.075
 ## Reduced Maximum Health
 attribute @s minecraft:max_health base set 16
