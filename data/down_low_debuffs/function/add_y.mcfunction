@@ -1,0 +1,1 @@
+execute unless score current_max_y uhc.dldebuffs.operations >= max_y uhc.dldebuffs.config run scoreboard players operation current_max_y uhc.dldebuffs.operations += speed uhc.dldebuffs.operations

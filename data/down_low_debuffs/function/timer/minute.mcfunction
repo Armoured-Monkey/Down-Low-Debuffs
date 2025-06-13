@@ -1,0 +1,1 @@
+execute if score start uhc.dldebuffs.config >= minutes uhc.timer run function down_low_debuffs:add_y
