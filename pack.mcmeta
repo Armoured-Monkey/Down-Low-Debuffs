@@ -2,12 +2,12 @@
 	"pack": {
 		"pack_format": 57,
 		"description": "Down Low Debuffs: UHC Control Expansion by ArmouredMonkey",
-		"supported_formats": {"min_inclusive":57, "max_inclusive": 61}
+		"supported_formats": {"min_inclusive":57, "max_inclusive": 80}
 	},
 	"overlays": {
 		"entries": [
 			{
-				"formats": {"min_inclusive":62, "max_inclusive": 71},
+				"formats": {"min_inclusive":62, "max_inclusive": 999},
 				"directory": "overlay_62"
 			}
 		]
